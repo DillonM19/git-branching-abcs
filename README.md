@@ -1,1 +1,1 @@
-# git-branching-abcs
+# Repository demostrates git branching proficiency
